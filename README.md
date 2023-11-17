@@ -1,4 +1,4 @@
-![282288987-096e79ae-5b4e-4761-81d1-dde36ac84643](https://github.com/SubashiniSenniappan/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/119404951/57562bf1-92b0-42bb-8298-0ef54162a858)# Skill Assisessment-Handwritten Digit Recognition using MLP
+
 ## Aim:
        To Recognize the Handwritten Digits using Multilayer perceptron.
 ##  EQUIPMENTS REQUIRED:
